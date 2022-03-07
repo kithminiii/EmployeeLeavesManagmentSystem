@@ -4,6 +4,10 @@
 
 <p>This is a leave management system for employees. Which is a process within an organization that determines how leave is requested by employees and approve by managers, as well as how it tracked for payroll balance, and other purposes.</p>
 
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/e4yje0vqwjmefnt0jl8e.PNG)
+
+![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9gyj68u03w9vidwfmef9.PNG)
+
 <h3>Submission Category</h3>
 
 Low Code Legends
