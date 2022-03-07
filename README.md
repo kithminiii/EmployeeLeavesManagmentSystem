@@ -4,7 +4,7 @@
 
 Apache License 2.0
 
-<h3>Scresh Shots of the System</h3>
+<h3>Screen Shots of the System</h3>
 
 
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0qp6hzqvwg0l03suf078.PNG)
