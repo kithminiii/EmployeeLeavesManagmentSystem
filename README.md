@@ -1,5 +1,8 @@
 # Employee-Leaves-Managment-App-Azure-Trial-Hackathon
 
+<h3>Overview of the System</h3>
+
+<p>This is a leave management system for employees. Which is a process within an organization that determines how leave is requested by employees and approve by managers, as well as how it tracked for payroll balance, and other purposes.</p>
 
 
 <h3>License</h3>
