@@ -1,4 +1,4 @@
-# Employee-Leaves-Managment-App
+# Employee Leaves Managment System
 
 <h3>Overview of the System</h3>
 
