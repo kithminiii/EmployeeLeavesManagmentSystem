@@ -1,4 +1,4 @@
-# Employee-Leaves-Managment-App-Azure-Trial-Hackathon
+# Employee-Leaves-Managment-App
 
 <h3>Overview of the System</h3>
 
